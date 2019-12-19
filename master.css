@@ -1,0 +1,35 @@
+body{
+    background-color: #E6E6FA;
+    margin: 5%;
+    margin-top: 0%;
+    font-family: monospace;
+    
+}
+h1{
+    background-image: url("./Studio_Ghibli_logo.svg.png");
+    background-color:#87CEEA;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: right;
+    height: 150px;
+    margin: 5%;
+    margin-top: 0px;
+    width: 70%;
+    margin-bottom: 30px;
+    /* float: right; */
+}
+select{
+    margin-left: 10%;
+}
+div{
+    margin-left: 10%;
+    margin-right: 15%;
+    width: 60%;
+}
+form{
+    margin-left: 10%;
+    width: 400px;
+}
+span{
+font-weight: bold;
+}
